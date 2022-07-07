@@ -51,7 +51,7 @@ p {
 .flaxible-container {
     display: flex;
 
-    margin-bottom: 20px;
+    margin-bottom: 100px;
 }
 
 .donation-section {
@@ -83,4 +83,14 @@ img {
 
 .footer {
     background-color: burlywood;
+}
+
+#help-section {
+    height: 80%;
+    width: 70%;
+}
+
+#survive {
+    height: 120%;
+    width: 100%;
 }
