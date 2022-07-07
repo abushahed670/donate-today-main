@@ -16,8 +16,12 @@ h2 {
 }
 
 p {
-    color: whitesmoke;
+    color: black;
     font-size: medium;
+}
+
+#banner-description {
+    color: white;
 }
 
 .link-button {
@@ -30,5 +34,35 @@ p {
 }
 
 .top-banner {
-    background-image: url(images/donation4.jpg);
+    background-image: url(images/flood0.jpg);
+}
+
+.donation-today {
+    width: 60px;
+    height: 60px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 10px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+
+.flaxible-container {
+    display: flex;
+
+    margin-bottom: 20px;
+}
+
+.donation-section {
+    padding: 10%;
+}
+
+#boundery {
+    border: 5px solid red;
+    background-color: rgb(195, 169, 91);
+}
+
+#amount {
+    text-decoration: none;
 }
